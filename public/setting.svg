@@ -1,0 +1,19 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_23828_5192)">
+<path d="M3 1H13C14.108 1 15 1.892 15 3V13C15 14.108 14.108 15 13 15H3C1.892 15 1 14.108 1 13V3C1 1.892 1.892 1 3 1Z" stroke="#C4CDD5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M4 4H5" stroke="#C4CDD5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6 5C5.73478 5 5.48043 4.89464 5.29289 4.70711C5.10536 4.51957 5 4.26522 5 4C5 3.73478 5.10536 3.48043 5.29289 3.29289C5.48043 3.10536 5.73478 3 6 3C6.13132 3 6.26136 3.02587 6.38268 3.07612C6.50401 3.12638 6.61425 3.20003 6.70711 3.29289C6.79997 3.38575 6.87362 3.49599 6.92388 3.61732C6.97413 3.73864 7 3.86868 7 4C7 4.13132 6.97413 4.26136 6.92388 4.38268C6.87362 4.50401 6.79997 4.61425 6.70711 4.70711C6.61425 4.79997 6.50401 4.87362 6.38268 4.92388C6.26136 4.97413 6.13132 5 6 5Z" stroke="#C4CDD5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7 4.00002L12 4" stroke="#C4CDD5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12 8H11" stroke="#C4CDD5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10 9C10.2652 9 10.5196 8.89464 10.7071 8.70711C10.8946 8.51957 11 8.26522 11 8C11 7.73478 10.8946 7.48043 10.7071 7.29289C10.5196 7.10536 10.2652 7 10 7C9.73478 7 9.48043 7.10536 9.29289 7.29289C9.10536 7.48043 9 7.73478 9 8C9 8.26522 9.10536 8.51957 9.29289 8.70711C9.48043 8.89464 9.73478 9 10 9Z" stroke="#C4CDD5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M9 8.00002L4 8" stroke="#C4CDD5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M4 12H5" stroke="#C4CDD5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6 13C5.73478 13 5.48043 12.8946 5.29289 12.7071C5.10536 12.5196 5 12.2652 5 12C5 11.7348 5.10536 11.4804 5.29289 11.2929C5.48043 11.1054 5.73478 11 6 11C6.13132 11 6.26136 11.0259 6.38268 11.0761C6.50401 11.1264 6.61425 11.2 6.70711 11.2929C6.79997 11.3858 6.87362 11.496 6.92388 11.6173C6.97413 11.7386 7 11.8687 7 12C7 12.1313 6.97413 12.2614 6.92388 12.3827C6.87362 12.504 6.79997 12.6142 6.70711 12.7071C6.61425 12.8 6.50401 12.8736 6.38268 12.9239C6.26136 12.9741 6.13132 13 6 13Z" stroke="#C4CDD5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7 12L12 12" stroke="#C4CDD5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_23828_5192">
+<rect width="16" height="16" fill="white"/>
+</clipPath>
+</defs>
+</svg>

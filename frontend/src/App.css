@@ -1,5 +1,0 @@
-.ltr {
-  background: linear-gradient(to left, #FF6B01 50%, rgb(0, 0, 0) 50%) right;
-  background-size: 200%;
-  transition: .5s ease-out;
-}
