@@ -16,7 +16,7 @@
 
 *Your AI Co-Pilot that queries every premier foundation model concurrently, performs comparative reasoning, and synthesizes the optimal consensus response.*
 
-[Live Demo](https://cognisphere.us) • [Explore Features](#-key-features) • [Tech Stack](#-technology-stack) • [Getting Started](#-getting-started) • [Architecture](#-system-architecture)
+[Live Demo](https://sarbeswardas-frontend-tawny.vercel.app/) • [Explore Features](#-key-features) • [Tech Stack](#-technology-stack) • [Getting Started](#-getting-started) • [Architecture](#-system-architecture)
 
 </div>
 
