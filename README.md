@@ -16,7 +16,13 @@
 
 *Your AI Co-Pilot that queries every premier foundation model concurrently, performs comparative reasoning, and synthesizes the optimal consensus response.*
 
-[Live Demo](https://sarbeswardas-frontend-tawny.vercel.app/) • [Explore Features](#-key-features) • [Tech Stack](#-technology-stack) • [Getting Started](#-getting-started) • [Architecture](#-system-architecture)
+<p align="center">
+  <a href="https://cognisphere.us/home"><strong>🌐 Official Client Live Platform</strong></a> • 
+  <a href="https://sarbeswardas-frontend-tawny.vercel.app/"><strong>⚡ Vercel Staging Preview</strong></a> • 
+  <a href="#-key-features">Features</a> • 
+  <a href="#-technology-stack">Tech Stack</a> • 
+  <a href="#-engineering--attribution">Engineering & Role</a>
+</p>
 
 </div>
 
@@ -25,6 +31,7 @@
 ## 📖 Table of Contents
 
 - [Overview](#-overview)
+- [Live Deployments & Project Links](#-live-deployments--project-links)
 - [Key Features](#-key-features)
 - [UI & Visual Showcase](#-ui--visual-showcase)
 - [System Architecture & Workflow](#-system-architecture--workflow)
@@ -34,6 +41,7 @@
 - [Environment Variables](#-environment-variables)
 - [API & Multi-Model Integration](#-api--multi-model-integration)
 - [Roadmap](#-roadmap)
+- [Engineering & Attribution](#-engineering--attribution)
 - [Contributing](#-contributing)
 - [License](#-license)
 
@@ -48,6 +56,20 @@ With Cognisphere, users input a prompt once:
 2. **Side-by-Side Comparison**: Review individual model outputs to inspect different reasoning styles, code implementations, or explanations.
 3. **Optimized Synthesis**: An intelligent synthesis engine cross-checks and reconciles all model answers to produce a high-accuracy, hallucination-free consensus summary.
 4. **AI Image Generation**: Built-in generative image studio for instant text-to-image creation.
+
+---
+
+## 🚀 Live Deployments & Project Links
+
+| Deployment | URL | Description |
+| :--- | :--- | :--- |
+| **🌐 Official Client Production** | **[cognisphere.us/home](https://cognisphere.us/home)** | Client's official production application |
+| **⚡ Frontend Staging Preview** | **[sarbeswardas-frontend-tawny.vercel.app](https://sarbeswardas-frontend-tawny.vercel.app/)** | Independent frontend deployment / Vercel mirror for hiring reference |
+| **💻 Source Code** | **[github.com/Ramjanict/Cognisphere-AI](https://github.com/Ramjanict/Cognisphere-AI)** | Complete Next.js 16 frontend codebase |
+
+> [!IMPORTANT]
+> **For Hiring Managers & Technical Recruiters:**
+> This project represents my production work as **Lead Frontend Engineer** for client **Intellecta Labs LLC**. You can review the live client production app at [cognisphere.us/home](https://cognisphere.us/home) as well as the dedicated frontend staging deployment on [Vercel](https://sarbeswardas-frontend-tawny.vercel.app/) demonstrating the architecture, responsive UX, and integrations.
 
 ---
 
@@ -325,10 +347,23 @@ Contributions, issues, and feature requests are welcome!
 
 ---
 
+## 👨‍💻 Engineering & Attribution
+
+- **Role**: Lead Frontend Engineer
+- **Engineer**: **[Md Ramjan Ali](https://github.com/Ramjanict)**
+- **Client Organization**: **Intellecta Labs LLC** (Cognisphere AI)
+- **Official Client Production**: [https://cognisphere.us/home](https://cognisphere.us/home)
+- **Independent Staging / Vercel Preview**: [https://sarbeswardas-frontend-tawny.vercel.app/](https://sarbeswardas-frontend-tawny.vercel.app/)
+- **Repository**: [https://github.com/Ramjanict/Cognisphere-AI](https://github.com/Ramjanict/Cognisphere-AI)
+
+---
+
 ## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the [MIT License](./LICENSE).
+
+Copyright (c) 2025–2026 **Md Ramjan Ali** / **Intellecta Labs LLC**. All rights reserved.
 
 <div align="center">
-  <sub>Built with ❤️ by Intellecta Labs LLC</sub>
+  <sub>Developed by <strong>Md Ramjan Ali</strong> for <strong>Intellecta Labs LLC</strong></sub>
 </div>
